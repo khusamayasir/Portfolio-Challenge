@@ -1,2 +1,26 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@500;600;700&display=swap");
 
+body {
+  background-color: rgb(99, 99, 99);
+}
+
+.my-img {
+  width: 70%;
+  margin: 20px;
+  border: 2px solid br;
+  border-radius: 10px;
+}
+
+.profession {
+  font-size: 22px;
+  color: grey;
+}
+
+.contact a {
+  color: black;
+}
+
+.contact a:hover {
+  color: rgb(240, 180, 70);
+}
 
