@@ -24,6 +24,30 @@ body {
   color: rgb(240, 180, 70);
 }
 
+/***SKILLS***/
+.skill-icon {
+  padding: 8px;
+  margin-right: 10px;
+  color: #fff;
+  border-radius: 10px;
+}
+
+#html {
+  background-color: #e34c26;
+}
+
+#css {
+  background-color: #2565ae;
+}
+
+#js {
+  background-color: rgb(240, 219, 79);
+}
+
+#bootstrap {
+  background-color: #553c7b;
+}
+
 footer {
   font-size: 14px;
   line-height: 17px;
