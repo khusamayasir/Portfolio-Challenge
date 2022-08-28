@@ -38,7 +38,12 @@ in-progress
 
 ## Overview
 
-![screenshot](https://user-images.githubusercontent.com/16707738/92399059-5716eb00-f132-11ea-8b14-bcacdc8ec97b.png)
+Desktop View:
+![screenshot](https://github.com/khusamayasir/Portfolio-Challenge/blob/main/preview/desktop-view.png?raw=true)
+
+Mobile View:
+
+![screenshot](https://github.com/khusamayasir/Portfolio-Challenge/blob/main/preview/mobile-view.png?raw=true)
 
 I create this portfolio page by using html, css and bootstrap. I use cards and grid system in this project. It help me to polish my skills in html and css too, I love to do more challenges and make my skill more perfect and more proficient. I think practising or playing with this type of project will make you expert one day.
 
