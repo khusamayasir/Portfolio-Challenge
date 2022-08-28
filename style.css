@@ -16,12 +16,12 @@ body {
   color: grey;
 }
 
-.contact a {
+a {
   color: black;
 }
 
-.contact a:hover {
-  color: rgb(240, 180, 70);
+a:hover {
+  color: #f7542e;
 }
 
 /***SKILLS***/
