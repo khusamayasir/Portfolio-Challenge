@@ -48,6 +48,41 @@ a:hover {
   background-color: #553c7b;
 }
 
+/***PROJECTS***/
+
+button {
+  margin: 10px auto;
+  border-radius: 10px;
+  padding: 15px 25px;
+  border:none;
+}
+
+button a{
+  text-decoration: none;
+  font-size: 16px;
+}
+
+button:hover a{
+  text-decoration:none;
+}
+
+.demo-btn{
+  color: #fff;
+  background-color: #2f80ed;
+}
+
+.demo-btn a{
+  color: #fff;
+}
+
+.code-btn{
+  border: 1px solid #2f80ed;
+}
+
+.code-btn a{
+  color: #2f80ed;
+}
+
 /***FOOTER***/
 footer {
   font-size: 14px;
