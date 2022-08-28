@@ -24,3 +24,17 @@ body {
   color: rgb(240, 180, 70);
 }
 
+footer {
+  font-size: 14px;
+  line-height: 17px;
+  text-align: center;
+  color: #BDBDBD;
+}
+
+.username-github-link, .devchallenge-link {
+  color: #333;
+}
+
+.username-github-link:hover, .devchallenge-link:hover {
+  color: #f7542e;
+}
