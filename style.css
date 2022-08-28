@@ -63,24 +63,17 @@ button a{
 }
 
 button:hover a{
-  text-decoration:none;
+  text-decoration: none;
 }
 
-.demo-btn{
+.demo-btn, .code-btn {
   color: #fff;
   background-color: #2f80ed;
+  border: 2px solid #01214b;
 }
 
-.demo-btn a{
+.demo-btn a, .code-btn a {
   color: #fff;
-}
-
-.code-btn{
-  border: 1px solid #2f80ed;
-}
-
-.code-btn a{
-  color: #2f80ed;
 }
 
 /***FOOTER***/
